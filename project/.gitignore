@@ -1,0 +1,13 @@
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Nanti dipakai mulai Tahap 4 (jangan commit kredensial database)
+config/local.php
+*.env
+
+# Dependency folder (kalau nanti pakai composer)
+vendor/
