@@ -1,3 +1,12 @@
+## Project E-Commerce Model ERP Mitra UMKM Amboko Store
+Kelompok 5
+
+## Anggota Kelompok
+1. Syilvani Amanda 
+2. Sekar Ayu Namira
+3. Diva Nur Aulia
+4. Mushthafa
+
 # AMBOKO — Fashion E-Commerce Website
 
 AMBOKO adalah project website e-commerce fashion yang dibuat untuk menampilkan produk pakaian dengan tampilan modern, sederhana, dan responsive. Website ini dikembangkan secara bertahap menggunakan **PHP, HTML, dan CSS**.
